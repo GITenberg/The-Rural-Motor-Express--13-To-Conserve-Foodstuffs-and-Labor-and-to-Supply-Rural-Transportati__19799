@@ -1,0 +1,31 @@
+_repo: The-Rural-Motor-Express--13-To-Conserve-Foodstuffs-and-Labor-and-to-Supply-Rural-Transportati__19799
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Council of National Defense. Highways Transport Committee
+    gutenberg_agent_id: '3256'
+    url: http://www.gutenberg.org/2009/agents/3256
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2006-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19799'
+language: en
+publication_note: "Washington\r\nGovernment Printing Office\r\n1918"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Highways Transport Committee Council of National Defense, Bulletin No.
+  2
+subjects:
+- !lcsh 'Trucking'
+- !lcc 'HE'
+- !lcsh 'Roads'
+- !lcsh 'Transportation, Automotive'
+title: "The Rural Motor Express\r\nTo Conserve Foodstuffs and Labor and to Supply\
+  \ Rural Transportation."
+url: http://www.gutenberg.org/ebooks/19799
